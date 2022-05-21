@@ -1,4 +1,4 @@
-peline {
+pipeline {
 
     //agent any
     agent { dokcer {image 'maven:3.6.3'} }
